@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blogs/Second Blog/index.html",
+      "/blogs/First Blog/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/MLB/index.html",
+      "/posts/nonprofit/index.html",
+      "/posts/census data/index.html",
+      "/posts/Crypto/index.html",
+      "/posts/post with code/index.html"
+    ]
+  }
+]
